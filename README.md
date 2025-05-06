@@ -40,7 +40,7 @@ poetry --version
 
 2. **Install dependencies using Poetry**
    ```bash
-   poetry install
+   poetry install --no-root
    ```
 
 3. **Set up your environment variables**
